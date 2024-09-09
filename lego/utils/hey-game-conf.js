@@ -1,0 +1,1 @@
+GameGlobal.heyGameConfig={appName:"lego",versionName:"1.0.0",versionCode:"1",resVersion:"1.0.1"};

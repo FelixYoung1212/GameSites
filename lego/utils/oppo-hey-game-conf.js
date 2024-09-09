@@ -1,0 +1,1 @@
+window.heyGameConfig={appName:"lego",versionName:"1.0.1",versionCode:"2",resVersion:"1.0.0"};
